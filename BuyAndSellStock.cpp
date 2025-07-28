@@ -22,7 +22,7 @@ int main() {
     Solution obj;
 
     // Sample input: Change this to test other cases
-    vector<int> prices = {7, 1, 5, 3, 6, 4};
+    vector<int> prices = {75, 91, 50, 63, 26, 44};
     
     int result = obj.maxProfit(prices);
     cout << "Maximum Profit: " << result << endl;
